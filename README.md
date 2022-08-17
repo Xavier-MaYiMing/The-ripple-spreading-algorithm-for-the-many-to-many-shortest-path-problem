@@ -23,7 +23,7 @@ The many-to-many shortest path problem has a set of source nodes as well as a se
 
 #### Example
 
-![many-to-many SPP](C:\Users\dell\Desktop\研究生\个人算法主页\The ripple-spreading algorithm for the many-to-many shortest path problem\many-to-many SPP.png)
+![](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-the-many-to-many-shortest-path-problem/blob/main/many-to-many%20SPP.png)
 
 The source nodes are nodes 1, 3, and 5, and the destination nodes are nodes 0 and 1.
 
