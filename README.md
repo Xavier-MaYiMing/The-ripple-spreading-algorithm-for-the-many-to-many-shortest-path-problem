@@ -25,7 +25,7 @@ The many-to-many shortest path problem has a set of source nodes as well as a se
 
 ![](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-the-many-to-many-shortest-path-problem/blob/main/many-to-many%20SPP.png)
 
-The source nodes are nodes 1, 3, and 5, and the destination nodes are nodes 0 and 1.
+The source nodes are nodes 1, 3, and 5, and the destination nodes are nodes 0 and 6.
 
 ```python
 if __name__ == '__main__':
